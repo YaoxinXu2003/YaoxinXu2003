@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, My name is Yaoxin. I 'm really happy to join github community❤️
+I am currently a graduate student of Shanghai Jiao Tong University🏫, and my major is biomedical engineering📚.
+My researches mainly focus on motion-compensated fast MR reconstruction⚕️.
